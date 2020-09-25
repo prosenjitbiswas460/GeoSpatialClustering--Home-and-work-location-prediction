@@ -7,3 +7,5 @@ https://nbviewer.jupyter.org/
 2. The dynamic plotly content is also not rendered properly on github. We can look at the plots after converting them into static content with fig.show("png") in the respective functions. Doing so, crams up the plots and makes them poor to look at. For better understanding, please remove the argument "png" from fig.show("png") at all the places.
 
 The end result for this data set is a set of clustered data points plotted on maps with the help of algorithms like KMeans, DBscan and deep learning based self organizing maps (SOM). The evaluation metrics and conclusion is included as well.
+
+Best Experience: please download or clone the ipynb file and use the dynamic content to view the maps and analysis.
